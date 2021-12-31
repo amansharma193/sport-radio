@@ -1,0 +1,41 @@
+.navbar{
+  width: 100%;
+    background-color: black;
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 13px 5%;
+}
+.header{
+  padding: 13px 5%;
+  font-size: 16px;
+  font-weight: bold;
+}
+.btn{
+  background-color: white;
+  color: grey;
+  margin-right: 10px;
+  padding: 6px 30px;
+  border: solid grey 1px;
+}
+.active{
+  color: white;
+  background-color: orange;
+  border: none;
+}
+.filter{
+  padding: 0px 5%;
+}
+.day{
+  padding: 0px 5%;
+}
+.datebar{
+  background: black;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px 5px 0px 0px;
+  margin-top: 10px;
+}
+
+
